@@ -4,7 +4,7 @@ export const OptionsList = styled.ul`
   display: flex;
   justify-content: center;
   gap: 20px;
-
+  list-style-type: none;
   margin-top: 20px;
   padding: 0;
 `;
